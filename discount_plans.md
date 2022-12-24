@@ -1,0 +1,2 @@
+- Discount Plans
+  - Coffehut_Wallet payment option for “loyal” user
